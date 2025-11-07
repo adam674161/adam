@@ -1,0 +1,19 @@
+﻿body {
+    direction:rtl;
+    background-color:ghostwhite;
+}
+.אריה {
+    font-size: 30px;
+    color: yellow;
+    font-style: italic
+}
+.פיל{
+    font-size: 30px;
+    color: grey;
+    font-style: italic
+}
+.ציטה{
+    font-size: 30px;
+    color: sandybrown;
+    font-style: italic
+}

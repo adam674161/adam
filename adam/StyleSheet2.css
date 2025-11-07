@@ -1,0 +1,16 @@
+﻿body {
+}
+table, tr, td {
+    border: 1px solid black;
+}
+table{
+    margin:0px auto;
+    direction: rtl
+
+}
+.madmh{
+    background-color:saddlebrown;
+}
+.safrot{
+    background-color:lawngreen;
+}
