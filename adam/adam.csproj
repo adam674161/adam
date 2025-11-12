@@ -68,6 +68,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="adam2.html" />
+    <Content Include="adam3.html" />
+    <Content Include="adam3.js" />
     <Content Include="cita.html" />
     <Content Include="Html2.html" />
     <Content Include="img\elpe.html" />
@@ -76,6 +78,8 @@
     <Content Include="img\Screenshot 2025-11-06 101840.png" />
     <Content Include="img\אריה.jpeg" />
     <Content Include="lion.html" />
+    <Content Include="mahsabon.html" />
+    <Content Include="mahsabonjava.js" />
     <Content Include="secondpage.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="StyleSheet2.css" />
