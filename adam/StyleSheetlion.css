@@ -1,0 +1,17 @@
+﻿body {
+    font-size: 40px;
+    font-style: italic;
+    background-color: sandybrown;
+    direction: rtl;
+}
+div{
+    text-align: center;
+}
+h1{
+    color: yellow;
+    font-size: 60px;
+    text-align: center;
+}
+.lionpic{
+    float: right;
+}

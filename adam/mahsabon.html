@@ -3,8 +3,60 @@
 <head>
     <meta charset="utf-8" />
     <title></title>
+    <link href="mahsabon.css" rel="stylesheet" />
 </head>
 <body>
+    <table>
+        <tr>
+            <td>
+                <input type="text" size="20" id="numplus1" disabled />
+                <span>הקלד מספר שלם</span>
+            </td>
+            <td>
+                +
+            </td>
+            <td>
+                <input type="text" size=" 20" id="numplus2" disabled />
+            </td>
+            <td>
+                =
+            </td>
+            <td>
+                <input type="text" size="20" id="sum" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" id="numminus" />
+            </td>
+            <td>
+                -
+            </td>
+            <td>
+                <input type="text" id="numminus2" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="text" id="numkofel1" />
+            </td>
+            <td>
+                *
+            </td>
+            <td>
+                <input type="text" id="numkofel2" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <input type="button" value="בדוק" onclick="checkanswer();" />
+            </td>
+            <td>
+                <input type="button" value="הגרל מספרים חדשים" onclick="randomly();" />
+            </td>
+        </tr>
+    </table>
+    <span id=" msgplus"></span>
     <script src="mahsabonjava.js"></script>
 </body>
 </html>

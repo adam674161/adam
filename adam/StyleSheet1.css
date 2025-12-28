@@ -1,19 +1,34 @@
-﻿body {
-    direction:rtl;
-    background-color:ghostwhite;
+﻿
+body 
+{
+    font-size: 40px;
+    font-style: italic;
+    background-color: whitesmoke;
+    direction: rtl;
 }
+
 .אריה {
     font-size: 30px;
     color: yellow;
-    font-style: italic
+    font-style: italic;
 }
-.פיל{
+.פיל {
     font-size: 30px;
     color: grey;
-    font-style: italic
+    font-style: italic;
 }
-.ציטה{
+.ציטה {
     font-size: 30px;
     color: sandybrown;
-    font-style: italic
+    font-style: italic;
 }
+.animal-img {
+    float: right;
+    margin: 5px;
+    width: 260px;
+    text-align: center;
+}
+.hzor {
+    text-align: center;
+}
+

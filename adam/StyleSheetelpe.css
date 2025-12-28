@@ -1,0 +1,21 @@
+﻿body {
+    font-size: 40px;
+    font-style: italic;
+    background-color: lightslategrey;
+    direction: rtl;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    color: darkslategrey;
+    font-size: 60px;
+    text-align: center;
+}
+
+.elpepic {
+    float: right;
+    height: 500px;
+}
